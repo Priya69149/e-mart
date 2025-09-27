@@ -14,9 +14,9 @@ const Contact = () => {
               <p className="text-gray-300">Have a question or need support? We're here to help you with your electronics journey.</p>
             </div>
             <div>
-              <p><strong>📍 Address:</strong>Rajpura NH19 Mugma, Dhanbad, India</p>
+              <p><strong>📍 Address:</strong>Maithon, Dhanbad, India</p>
               <p><strong>📧 Email:</strong> support@emart.com</p>
-              <p><strong>📞 Phone:</strong> +91 62999 xxx27</p>
+              <p><strong>📞 Phone:</strong> +91 62031 xxxxx</p>
             </div>
           </div>
 
